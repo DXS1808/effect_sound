@@ -1,4 +1,4 @@
-package com.reactlibrary.ultis;
+package com.reactlibrary.utils;
 
 import android.util.Log;
 

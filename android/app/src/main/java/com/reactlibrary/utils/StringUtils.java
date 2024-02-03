@@ -1,4 +1,4 @@
-package com.reactlibrary.ultis;
+package com.reactlibrary.utils;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;

@@ -8,10 +8,8 @@ import android.os.Looper;
 import android.os.Message;
 import android.util.Log;
 
-import com.reactlibrary.basseffect.IDBMediaConstants;
-import com.reactlibrary.basseffect.IDBMediaListener;
-import com.reactlibrary.ultis.DBLog;
-import com.reactlibrary.ultis.StringUtils;
+import com.reactlibrary.utils.DBLog;
+import com.reactlibrary.utils.StringUtils;
 import com.reactlibrary.un4seen.bass.BASS;
 import com.reactlibrary.un4seen.bass.BASS_FX;
 import com.reactlibrary.un4seen.bass.BASSenc;
